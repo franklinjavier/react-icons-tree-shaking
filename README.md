@@ -5,12 +5,14 @@
 Importing 3 icons from 2 packages
 
 ```jsx
-import { FaBeer } from 'react-icons/fa';
-import { MdAccountBox, MdCheckCircle } from 'react-icons/md';
+import { FaBeer } from 'react-icons/fa'
+import { MdAccountBox, MdCheckCircle } from 'react-icons/md'
 
-<FaBeer />
-<MdAccountBox />
-<MdCheckCircle />
+<>
+  <FaBeer />
+  <MdAccountBox />
+  <MdCheckCircle />
+</>
 ```
 
 ### nextjs
